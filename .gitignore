@@ -1,0 +1,15 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Docker y Base de Datos local
+mysql_data/
+
+# Configuración de VS Code y secretos
+.vscode/
+appsettings.Development.json
+
+# Archivos de usuario de Visual Studio
+*.user
+*.userosscache
+*.sln.docstates

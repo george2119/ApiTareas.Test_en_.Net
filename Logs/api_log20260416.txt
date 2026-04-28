@@ -1,0 +1,4 @@
+2026-04-16 10:04:48.104 -06:00 [INF] Application is shutting down...
+2026-04-16 15:52:50.226 -06:00 [ERR] An error occurred using the connection to database '' on server 'localhost'.
+2026-04-16 15:58:04.685 -06:00 [ERR] An error occurred using the connection to database '' on server 'localhost'.
+2026-04-16 15:59:55.103 -06:00 [ERR] An error occurred using the connection to database '' on server 'localhost'.
